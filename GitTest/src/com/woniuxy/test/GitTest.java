@@ -15,4 +15,7 @@ public class GitTest {
 	public void fun3() {
 		System.out.println("hello world");
 	}
+	public void fun4() {
+		System.out.println("hello world");
+	}
 }
